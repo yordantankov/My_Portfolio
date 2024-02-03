@@ -247,3 +247,50 @@ article{
 .side-scroll.active {
     transform: translateY(-100%);
 }
+
+@media (max-width: 768px) {
+    body {
+      /* Adjust styles for smaller screens */
+      background-size: auto; /* or any other appropriate style for smaller screens */
+    }
+  
+    .my_image {
+      width: 150px;
+      height: 150px;
+      margin-top: 30px;
+    }
+  
+    .buttons button {
+      width: 100%;
+      margin: 10px 0;
+    }
+  
+    /* Add additional styles as needed for smaller screens */
+  }
+@media (max-width: 768px) {
+    .certificates img {
+      width: 100%; /* Adjust width for smaller screens */
+      height: auto; /* Maintain aspect ratio */
+      max-width: 100%;
+    }
+  }
+
+
+  @media (max-width: 768px) {
+    .img_1_m50 {
+      width: 100%; /* Adjust width for smaller screens */
+      height: auto; /* Maintain aspect ratio */
+      max-width: 100%;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .footer-links {
+      flex-direction: row; /* Change back to a row layout for larger screens */
+      justify-content: space-around;
+    }
+  
+    .footer-links a {
+      margin: 5px; /* Adjust margin for smaller screens */
+    }
+  }
