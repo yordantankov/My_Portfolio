@@ -1,9 +1,9 @@
 # My_Portfolio
 
-VERSION 1.0: Upload the website
-VERSION 1.1: Bug fixed
-VERSION 1.2: Css file updated
-VERSION 1.3: Added hyperlinks on images of certificates.
+VERSION 1.0: Upload the website<br>
+VERSION 1.1: Bug fixed<br>
+VERSION 1.2: Css file updated<br>
+VERSION 1.3: Added hyperlinks on images of certificates.<br>
 
 ![image](https://github.com/yordantankov/My_Portfolio/assets/94921040/9d6ac738-29e4-4774-82d8-508b87412957)
 
