@@ -1,4 +1,4 @@
-/* updated 25.02.2024 6:01am */ 
+/* updated 17.04.2024 6:01am  --> BUGS FIXES */ 
 
 
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css");
@@ -162,14 +162,7 @@ article {
     transform: translateY(-5px);
 }
 
-@media (max-width: 1168px) {
-    .certificates img {
 
-        width: 30%;
-        /* Adjust width for smaller screens */
-        margin: 5px;
-    }
-}
 
 .disciption__m50 {
     font-family: "Open Sans", sans-serif;
